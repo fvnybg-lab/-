@@ -1,6 +1,5 @@
 
- * Quantumult X 随机 User-Agent 脚本
- */
+ Quantumult X 随机
 
 let headers = $request.headers;
 
